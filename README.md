@@ -60,7 +60,7 @@ const developer = {
 
 ---
 
-# 💻 Tech Arsenal
+# 💻 Tech Arsenal 💻
 
 ## Frontend
 
