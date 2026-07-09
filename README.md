@@ -124,9 +124,9 @@ const developer = {
 
 `React` `Node.js` `MongoDB` `Express`
 
-🔗 **Live Demo:** [https://cuore-beauty.co.jp/special/repaircure](https://cuore-beauty.co.jp/special/repaircure)
+🔗 **Live Demo:** [https://cuore-beauty.co.jp/special/repaircure]
 
-🔗 **Repository:** [https://[github.com/yourusername/project](https://github.com/zenkairyu5555?tab=repositories)](https://github.com/zenkairyu5555?tab=repositories)
+🔗 **Repository:** [https://github.com/zenkairyu5555?tab=repositories].
 
 ---
 
@@ -137,10 +137,8 @@ const developer = {
 ### Tech Used 
 
 `Next.js` `TypeScript` `Firebase`
-🔗 **Live Demo:** [https://cuore-beauty.co.jp/special/repaircure](https://cuore-beauty.co.jp/special/repaircure)
-
-🔗 **Repository:** [https://[github.com/yourusername/project](https://github.com/zenkairyu5555?tab=repositories)](https://github.com/zenkairyu5555?tab=repositories)
-
+🔗 **Live Demo:** [https://cuore-beauty.co.jp/special/repaircure]
+🔗 **Repository:** [https://github.com/zenkairyu5555?tab=repositories]
 
 ---
 
@@ -152,15 +150,15 @@ const developer = {
 
 `Spring Boot` `MySQL` `Docker`
 
-🔗 **Live Demo:** [https://cuore-beauty.co.jp/special/repaircure](https://cuore-beauty.co.jp/special/repaircure)
+🔗 **Live Demo:** [https://cuore-beauty.co.jp/special/repaircure]
 
-🔗 **Repository:** [https://github.com/yourusername/project](https://github.com/yourusername/project)
+🔗 **Repository:** [https://github.com/yourusername/project]
 
 ---
 
 # 📈 Contribution Activity
 
-[![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zenkairyu5555\&theme=tokyo-night)](https://github.com/zenkairyu5555)
+[![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zenkairyu5555\&theme=tokyo-night)]
 
 ---
 
