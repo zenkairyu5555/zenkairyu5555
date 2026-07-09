@@ -124,9 +124,9 @@ const developer = {
 
 `React` `Node.js` `MongoDB` `Express`
 
-🔗 **Live Demo:** [https://yourproject.com](https://yourproject.com)
+🔗 **Live Demo:** [https://cuore-beauty.co.jp/special/repaircure](https://cuore-beauty.co.jp/special/repaircure)
 
-🔗 **Repository:** [https://github.com/yourusername/project](https://github.com/yourusername/project)
+🔗 **Repository:** [https://[github.com/yourusername/project](https://github.com/zenkairyu5555?tab=repositories)](https://github.com/zenkairyu5555?tab=repositories)
 
 ---
 
@@ -137,10 +137,10 @@ const developer = {
 ### Tech Used 
 
 `Next.js` `TypeScript` `Firebase`
+🔗 **Live Demo:** [https://cuore-beauty.co.jp/special/repaircure](https://cuore-beauty.co.jp/special/repaircure)
 
-🔗 **Live Demo:** [https://yourproject.com](https://yourproject.com)
+🔗 **Repository:** [https://[github.com/yourusername/project](https://github.com/zenkairyu5555?tab=repositories)](https://github.com/zenkairyu5555?tab=repositories)
 
-🔗 **Repository:** [https://github.com/yourusername/project](https://github.com/yourusername/project)
 
 ---
 
@@ -152,7 +152,7 @@ const developer = {
 
 `Spring Boot` `MySQL` `Docker`
 
-🔗 **Live Demo:** [https://yourproject.com](https://yourproject.com)
+🔗 **Live Demo:** [https://cuore-beauty.co.jp/special/repaircure](https://cuore-beauty.co.jp/special/repaircure)
 
 🔗 **Repository:** [https://github.com/yourusername/project](https://github.com/yourusername/project)
 
