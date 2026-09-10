@@ -9,4 +9,8 @@ Projects here include:
 - ☁️ AWS and Salesforce integrations
 - 🔗 Blockchain and smart-contract projects with Solidity and Solana
 
+## Current Focus
+
+Building practical software and improving full-stack development skills through hands-on projects.
+
 Thanks for visiting!
